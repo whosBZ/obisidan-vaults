@@ -1,0 +1,2 @@
+- A web framework for building back-end applications using JavaScript
+- Gives javascript access to filesystems, networking protocols, handling binary data etc.

@@ -1,0 +1,9 @@
+- A way of identifying the version of specific piece of software.
+- Whenever you update your software you should update its versioning.
+- Uses the format 1.2.3
+- 1 - Major version
+	- Introduces incompatible API changes and will often break the API when using it with older versions
+- 2 - Minor version
+	- Adds new functionality that is backwards compatible and shouldn't pose problems for your application or its use with older version
+- 3 - Patch Version
+	- Applies backwards compatible bug fixes, always up to date when new changes are shipped
