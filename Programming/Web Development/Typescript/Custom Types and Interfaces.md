@@ -107,5 +107,11 @@ type Window = {
 	- Can be often found in the DefinitelyTyped repository on GitHub.
 	- Deceleration files for third parties can be found in [[NPM Package Manager|NPM]] under the @types scope
 	- All deceleration files should be considered [[The package.json File#Development Dependencies|development dependencies]]
+	- When using libraries in TypeScript always try find its corresponding @type deceleration file, often as: 
+	
+``` bash
+npm install --save-dev @types/package-name
+```
+
 - By creating type files using the .d.ts extension you will have all those types available in your project without needing to import them explicitly
 	- However if you add any import or export statements to your .d.ts file it will prevent this from happening as your types file is now considered a module
