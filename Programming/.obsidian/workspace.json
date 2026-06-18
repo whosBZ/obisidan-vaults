@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Javscript/Asynchronous JavaScript.md",
+                "file": "Web Development/Typescript/Custom Types and Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asynchronous JavaScript"
+              "title": "Custom Types and Interfaces"
             }
           }
         ]
@@ -185,19 +185,26 @@
   },
   "active": "f2a70485a044e895",
   "lastOpenFiles": [
-    "Web Development/Javscript/Template Literals.md",
-    "Web Development/Javscript/Asynchronous JavaScript.md",
-    "Web Development/Javscript/Arrow Functions.md",
-    "Web Development/Javscript/Variable Declaration.md",
-    "Web Development/Javscript/Modern Javascript (ES.next).md",
+    "Web Development/Typescript/Custom Types and Interfaces.md",
+    "Untitled.canvas",
+    "Web Development/NodeJS/The package.json File.md",
+    "Web Development/Typescript/Built-in Types.md",
+    "Web Development/Typescript/Type Annotations.md",
+    "Web Development/Typescript/Typescript?.md",
+    "Web Development/Typescript/Setting Up Typescript.md",
+    "Web Development/Javascript/Variable Declaration.md",
+    "Web Development/Javascript/Modern Javascript (ES.next).md",
+    "Web Development/Javascript/Arrow Functions.md",
+    "Web Development/Typescript",
+    "General/Semantic Versioning.md",
+    "Web Development/Javascript/Asynchronous JavaScript.md",
+    "Web Development/Javascript/Template Literals.md",
     "Web Development/NodeJS/NPM Package Manager.md",
     "Web Development/NodeJS/What is NodeJS.md",
     "Web Development/NodeJS/The package.lock file.md",
-    "Web Development/NodeJS/The package.json File.md",
-    "Web Development/Javscript",
+    "Web Development/Javascript",
     "Untitled",
     "Development Dependence.md",
-    "General/Semantic Versioning.md",
     "Web Development/General",
     "General",
     "Welcome.md",
