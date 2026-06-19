@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/React/Setting Up React.md",
+                "file": "Web Development/HTTP/Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting Up React"
+              "title": "Methods"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "f2a70485a044e895",
   "lastOpenFiles": [
-    "Web Development/React/React?.md",
+    "General/GIT/Undoing a commit.md",
+    "General/GIT/Useful Commands.md",
+    "General/GIT/What is it?.md",
+    "General/GIT",
+    "General/Semantic Versioning.md",
+    "Web Development/HTTP/Methods.md",
     "Web Development/React/Setting Up React.md",
+    "Web Development/HTTP",
+    "Databases",
+    "Web Development/React/React?.md",
     "Untitled.canvas",
     "Web Development/Typescript/Custom Types and Interfaces.md",
     "Web Development/React",
@@ -199,14 +207,12 @@
     "Web Development/Javascript/Variable Declaration.md",
     "Web Development/Javascript/Arrow Functions.md",
     "Web Development/Typescript",
-    "General/Semantic Versioning.md",
     "Web Development/Javascript/Asynchronous JavaScript.md",
     "Web Development/Javascript/Template Literals.md",
     "Web Development/NodeJS/NPM Package Manager.md",
     "Web Development/NodeJS/What is NodeJS.md",
     "Web Development/NodeJS/The package.lock file.md",
     "Web Development/Javascript",
-    "Untitled",
     "Development Dependence.md",
     "Web Development/General",
     "General",
