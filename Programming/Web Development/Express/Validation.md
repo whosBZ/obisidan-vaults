@@ -1,0 +1,2 @@
+- Express does not have built in validation middleware and relies on external libraries like ZOD
+- You will use the library in your router to first validate whats coming in before ever reaching the controller to assist in a fail fast mentality

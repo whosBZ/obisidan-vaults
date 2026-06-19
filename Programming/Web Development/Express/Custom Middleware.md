@@ -1,0 +1,3 @@
+- You can create functions specific to handling tasks like validation and authentication
+- They will be used in the route chain before and after you call a controller function
+- They have the same format as a controller function and must always call next() at the end of their functionality to ensure they continue through the chain

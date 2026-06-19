@@ -20,7 +20,7 @@ console.log("value: ", result, "type of", typeof(result)); // Prints type string
 ```
 
 - Untyped variables also make function and API contracts hard to work with
-	- When a function takes a parameter it implicitly expects a parameter of a specific type but without typing there is no guarentee.
+	- When a function takes a parameter it implicitly expects a parameter of a specific type but without typing there is no guarantee.
 	- Same issue with return values, if we don't know what should be returned it can cause issues using that function.
 	- If the function limits what is taken in it can also ensure what is returned out.
 
