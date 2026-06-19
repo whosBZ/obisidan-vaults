@@ -1,0 +1,4 @@
+- **Git Add**
+	- Adds a file or a folder of files to staging 
+- **Git Commit**
+	- Adds
