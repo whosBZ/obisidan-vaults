@@ -1,0 +1,3 @@
+- Tool used to print out text from a file into the terminal
+- Useful for quick reading through files but can be cumbersome with larger files
+- You can also use it to pipe data into another file
